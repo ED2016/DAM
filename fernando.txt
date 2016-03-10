@@ -1,0 +1,9 @@
+
+git init
+git clone https://github.com/ED2016/DAM
+git checkout -b fernando
+git branch
+git status
+git add fernando.txt
+git commit -a -m
+git push origin fernando
